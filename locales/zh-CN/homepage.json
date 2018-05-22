@@ -25,7 +25,7 @@
   "RCTestDate": "{{RCTestDate,ll}}",
   "firstReleaseDate": "{{firstReleaseDate,ll}}",
   "The beginning": "开始",
-  "getStarted1": "下载并安装 <a href=\"{{java8}}\" target=\"_blank\">Java SE Runtime Environment 8</a>",
+  "getStarted1": "下载并安装 <a href=\"{{java}}\" target=\"_blank\">Java SE Runtime Environment</a>",
   "getStarted2": "(Windows用户) 下载并安装 <a href=\"{{vCpp2012Redist}}\" target=\"_blank\">Microsoft Visual C++ 2012 可再发行组件包</a>",
   "getStarted3": "透过以下连结下载最新版本的Semux钱包",
   "Coin Distribution": "SEM代币分配",

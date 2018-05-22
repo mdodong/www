@@ -25,7 +25,7 @@
   "RCTestDate": "{{RCTestDate,ll}}",
   "firstReleaseDate": "{{firstReleaseDate,ll}}",
   "The beginning": "The beginning",
-  "getStarted1": "Download and install <a href=\"{{java8}}\" target=\"_blank\">Java SE Runtime Environment 8</a> or above",
+  "getStarted1": "Download and install <a href=\"{{java}}\" target=\"_blank\">Java SE Runtime Environment</a>",
   "getStarted2": "(Windows user) Download and install <a href=\"{{vCpp2012Redist}}\" target=\"_blank\">Microsoft Visual C++ 2012 Redistributable Package</a>",
   "getStarted3": "Download the latest version of Semux Wallet below",
   "Coin Distribution": "Coin Distribution",

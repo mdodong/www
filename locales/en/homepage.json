@@ -9,7 +9,7 @@
   "SEMUX Explorer": "SEMUX Explorer",
   "headline": "A New And <br>Exciting Blockchain",
   "headlineDescriptionShort": "Semux is an innovative high-performance <br>blockchain platform powered by <br><b>Semux BFT consensus algorithm.</b>",
-  "headlineDescription": "<b>Semux</b> is an innovative high-performance blockchain platform that powers decentralized application. It's written purely in Java and powered by Semux BFT consensus algorithm. <br class=\"visible\"><a href=\"https://github.com/semuxproject/semux/wiki\" target=\"_blank\">$t(readMoreInWiki)</a>",
+  "headlineDescription": "<b>Semux</b> is an innovative high-performance blockchain platform that powers decentralized application. It's written purely in Java and powered by Semux BFT consensus algorithm. <br class=\"visible\"><a href=\"https://github.com/semuxproject/semux-core/blob/master/docs\" target=\"_blank\">$t(readMoreInWiki)</a>",
   "readMoreInWiki": ">> Read more on the Wiki",
   "Download Now!": "Download Now!",
   "Original Codebase": "Original Codebase",
@@ -68,7 +68,7 @@
   "How can I get SEM?": "How can I get SEM?",
   "faqHowCanIGetSem": "Buy them on #trading of the official discord. Beware of scammers!<br>\n Join the BTC Airdrop (Completed)<br>\n Join the Signature Campaign (Completed)<br>\n Contribute to the community<br>\n Become a validator<br>\n  Vote for a validator who is willing to share block rewards (e.g. <a href=\"https://semux.info/pool/\" target=\"_blank\">semux.info pool</a>)",
   "What are delegates and validators?": "What are delegates and validators?",
-  "faqWhatIsAValidatorOrADelegate": "A delegate is a special account that represents the voters. Delegates with highest total votes are considered validators, who will be responsible for forging blocks. To register a delegate, you need to burn 1000 SEMs. <a href=\"https://github.com/semuxproject/semux/wiki/Delegates-and-Validators\" target=\"_blank\">More</a>",
+  "faqWhatIsAValidatorOrADelegate": "A delegate is a special account that represents the voters. Delegates with highest total votes are considered validators, who will be responsible for forging blocks. To register a delegate, you need to burn 1000 SEMs. <a href=\"https://github.com/semuxproject/semux-core/blob/master/docs/Delegates-and-Validators.md\" target=\"_blank\">More</a>",
   "What are expected transaction Fees?": "What are expected transaction Fees?",
   "faqMinTxFee": "The current minimum transaction fee is {{minTxFee}} SEM.",
   "Where do I find the source code?": "Where do I find the source code?"

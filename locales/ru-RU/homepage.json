@@ -9,7 +9,7 @@
   "SEMUX Explorer": "SEMUX Explorer",
   "headline": "Новый <br>Перспективный Блокчейн",
   "headlineDescriptionShort": "Semux это инновационная высокопроизводительная <br>блокчейн-платформа базирующаяся на <br><b>Semux BFT алгоритме консенсуса.</b>",
-  "headlineDescription": "<b>Semux</b> это инновационная высокопроизводительная блокчейн-платформа для создания децентрализованных приложений. Написана полностью на Java и базируется на Semux BFT алгоритме консенсуса. <br class=\"visible\"><a href=\"https://github.com/semuxproject/semux/wiki\" target=\"_blank\">$t(readMoreInWiki)</a>",
+  "headlineDescription": "<b>Semux</b> это инновационная высокопроизводительная блокчейн-платформа для создания децентрализованных приложений. Написана полностью на Java и базируется на Semux BFT алгоритме консенсуса. <br class=\"visible\"><a href=\"https://github.com/semuxproject/semux-core/blob/master/docs\" target=\"_blank\">$t(readMoreInWiki)</a>",
   "readMoreInWiki": ">> Более детально в Wiki",
   "Download Now!": "Скачать сейчас!",
   "Original Codebase": "Это не форк",
@@ -68,7 +68,7 @@
   "How can I get SEM?": "Как я могу получить SEM?",
   "faqHowCanIGetSem": "Вы можете купить монеты в OTC канале в нашем Discord чате. Но будьте крайне осторожны торгуя мимо бирж, там целая очередь мошенников!<br>\n Присоединяйтесь к BTC Airdrop<br>\n Участвуйте в Подписной Компании на форуме<br>\n Приносите пользу сообществу и проекту на Github<br>\n Станьте валидатором сети (если у вас уже много монет)<br>\n Или проголосуйте за существующих валидаторов-пулы, которые делят награду между участниками (например: <a href=\"https://semux.info/pool/\" target=\"_blank\">semux.info pool</a> и множество других в #pools канале у нас в Discord-чате)",
   "What are delegates and validators?": "Кто такие валидатор и делегат?",
-  "faqWhatIsAValidatorOrADelegate": "Делегат - это особый аккаунт, представляющий интересы голосующих за него людей. Делегаты с наибольшим количеством голосов (входящие в топ-100) считаются валидаторами сети, они отвественны за создание новых блоков. Чтобы зарегистрировать делегата, вам нужно навсегда сжечь 1000 SEM. <a href=\"https://github.com/semuxproject/semux/wiki/Delegates-and-Validators\" target=\"_blank\">Читайте подробнее у нас в Wiki</a>",
+  "faqWhatIsAValidatorOrADelegate": "Делегат - это особый аккаунт, представляющий интересы голосующих за него людей. Делегаты с наибольшим количеством голосов (входящие в топ-100) считаются валидаторами сети, они отвественны за создание новых блоков. Чтобы зарегистрировать делегата, вам нужно навсегда сжечь 1000 SEM. <a href=\"https://github.com/semuxproject/semux-core/blob/master/docs/Delegates-and-Validators\" target=\"_blank\">Читайте подробнее у нас в Wiki</a>",
   "What are expected transaction Fees?": "Какая сейчас комиссия на отправку транзакции?",
   "faqMinTxFee": "Текущая минимальная стоимость транзакции {{minTxFee}} SEM.",
   "Where do I find the source code?": "Где я могу найти исходный код Semux?"

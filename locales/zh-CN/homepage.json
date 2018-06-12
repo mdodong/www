@@ -9,7 +9,7 @@
   "SEMUX Explorer": "SEMUX浏览器",
   "headline": "一个崭新的区块鍊平台",
   "headlineDescriptionShort": "Semux是一个创新的的高效能区块鍊平台，<br>基于Semux BFT共识演算法。</b>",
-  "headlineDescription": "<b>Semux</b> 是一个创新的的高效能区块鍊去中心化应用平台。Semux使用Java撰写，并基于Semux BFT共识演算法。 <br class=\"visible\"><a href=\"https://github.com/semuxproject/semux/wiki\" target=\"_blank\">$t(readMoreInWiki)</a>",
+  "headlineDescription": "<b>Semux</b> 是一个创新的的高效能区块鍊去中心化应用平台。Semux使用Java撰写，并基于Semux BFT共识演算法。 <br class=\"visible\"><a href=\"https://github.com/semuxproject/semux-core/blob/master/docs\" target=\"_blank\">$t(readMoreInWiki)</a>",
   "readMoreInWiki": ">> 阅读Wiki获取更多信息",
   "Download Now!": "下载！",
   "Original Codebase": "原创代码",
@@ -68,7 +68,7 @@
   "How can I get SEM?": "我要如何获得SEM代币？",
   "faqHowCanIGetSem": "于Bitcointalk上进行场外交易<br>\n 参加比特币空投<br>\n 参加Bitcointalk签名活动<br>\n 成为社群贡献者<br>\n 成为验证者<br>\n 投票给愿意共享奖励的验证者 (e.g. <a href=\"https://semux.info/pool/\" target=\"_blank\">semux.info pool</a>)",
   "What are delegates and validators?": "什么是验证者、代理人？",
-  "faqWhatIsAValidatorOrADelegate": "代理人是一个代表投票人的特别帐户。拥有最高投票数达到前100名的代理人会获选为验证者，验证者的责任是建立新的区块。代理人注册将会消耗1000个SEM。 <a href=\"https://github.com/semuxproject/semux/wiki/Delegates-and-Validators\" target=\"_blank\">获取更多信息</a>",
+  "faqWhatIsAValidatorOrADelegate": "代理人是一个代表投票人的特别帐户。拥有最高投票数达到前100名的代理人会获选为验证者，验证者的责任是建立新的区块。代理人注册将会消耗1000个SEM。 <a href=\"https://github.com/semuxproject/semux-core/blob/master/docs/Delegates-and-Validators.md\" target=\"_blank\">获取更多信息</a>",
   "What are expected transaction Fees?": "交易手续费是多少？",
   "faqMinTxFee": "最低交易手续费为 {{minTxFee}} SEM.",
   "Where do I find the source code?": "我要在哪里找到Semux的源代码？"

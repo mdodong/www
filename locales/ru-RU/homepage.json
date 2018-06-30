@@ -7,7 +7,7 @@
   "FAQ": "FAQ",
   "SEMUX Stats": "SEMUX Stats",
   "SEMUX Explorer": "SEMUX Explorer",
-  "headline": "Новый <br>Перспективный Блокчейн",
+  "headline": "высокая производительность <br>Перспективный Блокчейн",
   "headlineDescriptionShort": "Semux это инновационная высокопроизводительная <br>блокчейн-платформа базирующаяся на <br><b>Semux BFT алгоритме консенсуса.</b>",
   "headlineDescription": "<b>Semux</b> это инновационная высокопроизводительная блокчейн-платформа для создания децентрализованных приложений. Написана полностью на Java и базируется на Semux BFT алгоритме консенсуса. <br class=\"visible\"><a href=\"https://github.com/semuxproject/semux-core/blob/master/docs\" target=\"_blank\">$t(readMoreInWiki)</a>",
   "readMoreInWiki": ">> Более детально в Wiki",

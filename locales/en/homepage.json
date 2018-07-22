@@ -62,7 +62,7 @@
   "What makes Semux more interesting then other cryptos?": "What makes Semux more interesting then other cryptos?",
   "faqFeatures": "Using Semux BFT consensus, one block confirmation is sufficient;\n <br>\n High transaction throughput ({{txsPerBlock}} txs per block, tested);\n <br>\n Planned decentralized app support.",
   "Is Semux listed on any exchanges?": "Is Semux listed on any exchanges?",
-  "faqExchange": "Not yet, we will be contacting exchanges in Q1-Q2 2018.",
+  "faqExchange": "Yes! We are currently listed on <a href=\"https://app.stocks.exchange/en/basic-trade/pair/BTC/SEM\" target=\"_blank\">stocks.exchange</a>",
   "How many people are on the development team?": "How many people are on the development team?",
   "faqDevs": "Currently there are {{devs}} core developers and some contributors. Semux is looking to expand the dev team.",
   "How can I get SEM?": "How can I get SEM?",
